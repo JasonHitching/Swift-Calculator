@@ -10,6 +10,7 @@
 		26F0E908233AB2CA00A8EC97 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26F0E907233AB2CA00A8EC97 /* AppDelegate.swift */; };
 		26F0E90A233AB2CA00A8EC97 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26F0E909233AB2CA00A8EC97 /* ViewController.swift */; };
 		26F0E90D233AB2CA00A8EC97 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 26F0E90B233AB2CA00A8EC97 /* Main.storyboard */; };
+		26F0E90F233AB2CA00A8EC97 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 26F0E90E233AB2CA00A8EC97 /* Assets.xcassets */; };
 		26F0E912233AB2CA00A8EC97 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 26F0E910233AB2CA00A8EC97 /* LaunchScreen.storyboard */; };
 		26F0E91D233AB2CA00A8EC97 /* CalculatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26F0E91C233AB2CA00A8EC97 /* CalculatorTests.swift */; };
 		26F0E928233AB2CA00A8EC97 /* CalculatorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26F0E927233AB2CA00A8EC97 /* CalculatorUITests.swift */; };
